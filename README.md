@@ -11,8 +11,7 @@
 - Python
 - Java
 <hr>
-# Linguagens futuras
-- C++/C
-- Aprimoramento em Java
-</body>
+  </body>
 </html>
+
+
