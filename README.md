@@ -10,7 +10,7 @@
 - HTML, CSS 
 - Python
 - Java
-<hr>
+
   </body>
 </html>
 
